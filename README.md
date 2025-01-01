@@ -33,7 +33,7 @@ I specialize in using **Power BI**, **SQL**, and **Excel**, and I'm continuously
   - Used advanced **Power Query** techniques to clean and transform data.
   - Created interactive visuals with **pastel color schemes** for better clarity.
 - **Key Skills:** Power BI, DAX, Data Visualization.
-- **Status:** Awaiting feedback from reviewers. [View Project](#link-to-project-folder-or-screenshot)
+- **Status:** Awaiting feedback from reviewers. [https://github.com/EmiliaLapczynska/Portfolio/tree/main/GamesProject]
 
 ---
 

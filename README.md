@@ -24,7 +24,7 @@ I specialize in using **Power BI**, **SQL**, and **Excel**, and I'm continuously
   - Designed interactive dashboards showcasing sales trends, customer behavior, and product performance.
   - Utilized **DAX** to create measures and calculated columns for insightful analysis.
 - **Key Skills:** SQL, Power BI, DAX.
-- **Status:** [View Project](#link-to-project-folder-or-screenshot)
+- **Status:** [https://github.com/EmiliaLapczynska/Portfolio/tree/main/AdventureWorks]
 
 ### 2. **Video Game Sales Dashboard**
 - **Description:** Analysis of global video game sales across different regions (United States, Europe, Japan).
